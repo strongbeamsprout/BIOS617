@@ -200,7 +200,7 @@ mstar = sqrt(s2sq/susq)
 $$
 \begin{aligned}
 \hat S_u^2 &= \hat S_1^2 - \hat S_2^2/M \\
-&= s_1^2 - \left( 1 - \frac{m}{M} \right) s_2^2 - \frac{s_2^2}{m} \\
+&= s_1^2 - \left( 1 - \frac{m}{M} \right) s_2^2/m - \frac{s_2^2}{M} \\
 &= s_1^2 - \frac{s_2^2}{m}
 \end{aligned}
 $$
