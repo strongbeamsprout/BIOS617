@@ -70,7 +70,7 @@ $$
 
 Consider population least-squares regression estimator given by 
 $$
-B = \frac{\sum_{i=1}^n (Y_i - \bar Y) (X_i - \bar X)}{ \sum_{i=1}^n (X_i - \bar X)^2 } \to e_i := y_i - \bar Y - B(x_i - \bar X)
+B = \frac{\sum_{i=1}^N (Y_i - \bar Y) (X_i - \bar X)}{ \sum_{i=1}^N (X_i - \bar X)^2 } \to e_i := y_i - \bar Y - B(x_i - \bar X)
 $$
 Then
 $$
