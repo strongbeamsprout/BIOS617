@@ -31,7 +31,7 @@ $$
 * Then by linearity of expectations
 $$\small 
 \begin{aligned}
-E [ \bar y_h ] &= E \left[ \frac{1}{n_h} \sum_j I_{jh} Y_{jh} \right] = \frac{1}{n} \sum_j E [ I_{jh}  ] Y_{jh} \\
+E [ \bar y_h ] &= E \left[ \frac{1}{n_h} \sum_j I_{jh} Y_{jh} \right] = \frac{1}{n_h} \sum_j E [ I_{jh}  ] Y_{jh} \\
 &= \frac{1}{n_h} \sum_j \frac{n_h}{N_h} Y_{jh} = \bar Y_h
 \end{aligned}
 $$ 
